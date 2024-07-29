@@ -1,0 +1,17 @@
+{
+  "name": "todo-cli",
+  "version": "1.0.0",
+  "description": "Aplicação to-do feita em nodeJS utilizando typescript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx src/server.ts"
+  },
+  "author": "Walisson (Sileniz)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.14.11",
+    "tsx": "^4.16.2",
+    "typescript": "^5.5.3"
+  }
+}

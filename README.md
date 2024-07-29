@@ -24,3 +24,4 @@ Certifique-se de que você tem o [Node.js](https://nodejs.org/) instalado em sua
  **Execução:**
 
    ```bash
+   npm run dev
